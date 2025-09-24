@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" preserveAspectRatio="xMidYMid meet">
+  <!-- Foglia -->
+  <path d="M40 70 C20 50, 20 20, 40 10 C70 0, 110 30, 90 70 C80 90, 50 90, 40 70Z" 
+        fill="#2ecc71" stroke="#27ae60" stroke-width="2"/>
+  <!-- Testo (trasformato in una riga unica) -->
+  <text x="120" y="60" font-family="Arial, sans-serif" font-size="32" fill="#27ae60">
+    Ricette Vegetariane
+  </text>
+</svg>
